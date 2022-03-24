@@ -1,0 +1,2 @@
+# laradock_add_vue3_with_vite
+laradock＋vue3の環境をViteで作成する
